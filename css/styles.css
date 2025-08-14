@@ -3,7 +3,7 @@ a {
     text-decoration: none;
 }
 
-ul {
+ul, p {
     list-style: none;
     padding: 0;
 

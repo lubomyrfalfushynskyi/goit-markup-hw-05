@@ -792,6 +792,7 @@ img {
     align-items: center;
     align-items: center;
     fill: transparent;
+    justify-content: center; 
 }
 
 .after-footer-form-div-input:checked .after-footer-form-div-input-span{

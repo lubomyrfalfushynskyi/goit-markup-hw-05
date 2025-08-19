@@ -753,7 +753,7 @@ img {
 }
 
 
-.after-footer-form-div-div-input:focus svg{
+.after-footer-form-div-div-input:focus + svg{
     fill: #4D5AE5;
 }
 

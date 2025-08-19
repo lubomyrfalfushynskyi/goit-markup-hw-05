@@ -734,12 +734,12 @@ img {
     padding-left: 38px;
     outline: transparent;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    border-color: #4D5AE5; 
 }
 
 .after-footer-form-div-div-svg{
 
     /**lesson 5 styles**/
+    border: 1px solid rgba(46, 47, 66, 0.4);
     position: absolute;
     left: 16px;
     top:50%;
@@ -810,14 +810,14 @@ img {
     display: block;
     min-width: 169px;
     height: 56px;
-    font-family: "Roboto";
+     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color:#ffffff;
     cursor:pointer;
-    color: #4d5ae5;
+    background-color: #4D5AE5;
     border:none;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }

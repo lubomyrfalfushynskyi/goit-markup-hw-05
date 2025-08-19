@@ -801,7 +801,7 @@ img {
     justify-content: center; 
 }
 
-.after-footer-form-div-input:checked .after-footer-form-div-input-span{
+.after-footer-form-div-input:checked + label .after-footer-form-div-input-span{
 
     background-color: #404bbf;
     border: none;
